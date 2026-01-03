@@ -180,6 +180,9 @@ FranchiseHub/
 📧 Email: Aryankansal113@gmail.com  
 💼 GitHub: [@ARYAN149489](https://github.com/ARYAN149489)
 
+**Kalpana**
+📧 Email: kalpana_kalpana@sfu.ca  
+💼 GitHub: [@ARYAN149489](https://github.com/ARYAN149489)
 ---
 
 <div align="center">
