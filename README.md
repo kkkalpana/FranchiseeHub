@@ -190,6 +190,6 @@ FranchiseHub/
   
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by Aryan Kansal | © 2026 FranchiseHub
+© 2026 FranchiseHub
 
 </div>
