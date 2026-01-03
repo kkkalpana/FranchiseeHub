@@ -182,7 +182,7 @@ FranchiseHub/
 
 **Kalpana**
 📧 Email: kalpana_kalpana@sfu.ca  
-💼 GitHub: [@ARYAN149489](https://github.com/ARYAN149489)
+💼 GitHub: [@kkkalpana](https://github.com/kkkalpana)
 ---
 
 <div align="center">
