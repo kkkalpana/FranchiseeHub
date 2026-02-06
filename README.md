@@ -146,8 +146,8 @@ Franchisee → Dashboard → POST /franchisee/sales → API → MongoDB
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/yourusername/franchisehub.git
-   cd franchisehub
+   git clone https://github.com/kkkalpana/FranchiseeHub.git
+   cd FranchiseeHub
    ```
 
 2. **Setup environment**
