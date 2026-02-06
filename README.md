@@ -94,23 +94,21 @@ A franchise management system for handling applications, franchisee operations, 
 
 ```
 User → Frontend → POST /admin|franchisee/login → Express API → MongoDB
-                                                  ← Session Created ←
-                                                  ← JWT/Cookie ←
+     ← JWT/Cookie ← Session Created ← Response ←
 ```
 
 **2. Application Submission**
 
 ```
 Applicant → Form → POST /applicant/apply → API → MongoDB (Save)
-                                          → Nodemailer → Email Notification
+                                                → Nodemailer → Email Notification
 ```
 
 **3. Sales Data Entry**
 
 ```
 Franchisee → Dashboard → POST /franchisee/sales → API → MongoDB
-                                                 ← Sales Saved ←
-                                                 ← Updated Chart Data ←
+           ← Updated Chart Data ← Sales Saved ← Response ←
 ```
 
 ### Design Patterns
